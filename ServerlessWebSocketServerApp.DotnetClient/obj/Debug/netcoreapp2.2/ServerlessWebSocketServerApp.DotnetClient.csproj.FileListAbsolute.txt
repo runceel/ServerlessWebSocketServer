@@ -1,0 +1,11 @@
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\bin\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.deps.json
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\bin\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.runtimeconfig.json
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\bin\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.runtimeconfig.dev.json
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\bin\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.dll
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\bin\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.pdb
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\obj\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.csprojAssemblyReference.cache
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\obj\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.csproj.CoreCompileInputs.cache
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\obj\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.AssemblyInfoInputs.cache
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\obj\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.AssemblyInfo.cs
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\obj\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.dll
+C:\Users\kaota\Documents\Repos\ServerlessWebSocketServerApp\ServerlessWebSocketServerApp.DotnetClient\obj\Debug\netcoreapp2.2\ServerlessWebSocketServerApp.DotnetClient.pdb

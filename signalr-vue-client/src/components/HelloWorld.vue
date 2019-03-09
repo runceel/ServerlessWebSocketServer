@@ -28,7 +28,7 @@ export default class HelloWorld extends Vue {
       return;
     }
 
-    await fetch('http://localhost:7071/api/PostMessage', {
+    await fetch('https://okazukisignalr.azurewebsites.net/api/PostMessage', {
       method: 'POST',
       body: JSON.stringify({ text: this.message }),
     });
@@ -39,7 +39,7 @@ export default class HelloWorld extends Vue {
   public async created(): Promise<void> {
     console.log('created called');
     this.connection = new HubConnectionBuilder()
-      .withUrl('http://localhost:7071/api')
+      .withUrl('https://okazukisignalr.azurewebsites.net/api')
       .configureLogging(LogLevel.Information)
       .build();
     this.connection.on('receiveMessage', (message) => {

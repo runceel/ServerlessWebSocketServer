@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kaota\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kaota\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
